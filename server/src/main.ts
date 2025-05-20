@@ -16,5 +16,5 @@ async function bootstrap() {
 }
 
 bootstrap().catch((err) => {
-  console.error('앱 실행 중 오류 발생:', err);
+  console.error('오류니까 읽으셈:', err);
 });
